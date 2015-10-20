@@ -14,9 +14,6 @@
 
 @implementation ViewController
 
-- (void)viewDidLoad {
-    [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
-我又修改了文件
+gaigaigengjiankang
 
 @end
